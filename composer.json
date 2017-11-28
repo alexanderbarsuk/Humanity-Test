@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-0": {
+      "Tools\\": "src/",
+      "Entity\\": "src/",
+      "Form\\": "src/",
+      "Controller\\": "src/",
+      "App\\": "src/"
+    }
+  }
+}
