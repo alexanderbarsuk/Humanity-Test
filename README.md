@@ -1,9 +1,9 @@
-# humanity.test 
+# Humanity-Test
 
 **Steps to run application:**
 
 - Clone project from github 
-`git clone https://github.com/alexanderbarsuk/humanity.test.git`
+`git clone https://github.com/alexanderbarsuk/Humanity-Test.git`
 - Run composer to create autoload files
 `composer install`
 - Change DB settings in config file 'config/db.php'
